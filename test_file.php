@@ -1,4 +1,4 @@
 <?php
-echo "ceci est un fichier de test";
+echo "ceci e st un fichier de test";
 
 
